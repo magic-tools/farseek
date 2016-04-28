@@ -1,4 +1,4 @@
-Coretapper
+Farseek
 ===
 
 _In memoriam cockatrice.de, mtgimage.com, and many other projects killed by WotC_
@@ -6,7 +6,7 @@ _In memoriam cockatrice.de, mtgimage.com, and many other projects killed by WotC
 DISCLAIMER
 ---
 
-Coretapper is merely a study in PureScript, please don't deploy it anywhere.
+Farseek is merely a study in PureScript, please don't deploy it anywhere.
 
 If you deploy it somewhere, please don't tell us about your deployment, so
 that when WotC goes turns on community favourite
